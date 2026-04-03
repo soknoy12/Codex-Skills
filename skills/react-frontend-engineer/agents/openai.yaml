@@ -1,0 +1,4 @@
+interface:
+  display_name: "React Frontend Engineer"
+  short_description: "Build production-grade React frontends"
+  default_prompt: "Use $react-frontend-engineer to design and implement this React frontend feature in TypeScript."

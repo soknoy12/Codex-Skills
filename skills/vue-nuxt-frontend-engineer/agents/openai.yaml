@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vue Nuxt Frontend Engineer"
+  short_description: "Build production-grade Vue and Nuxt apps"
+  default_prompt: "Use $vue-nuxt-frontend-engineer to design and implement this Vue or Nuxt frontend feature in TypeScript."
