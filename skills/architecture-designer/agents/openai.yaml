@@ -1,0 +1,4 @@
+interface:
+  display_name: "Architecture Designer"
+  short_description: "Design high-level software architectures"
+  default_prompt: "Use $architecture-designer to design a high-level architecture for this system and explain the tradeoffs."

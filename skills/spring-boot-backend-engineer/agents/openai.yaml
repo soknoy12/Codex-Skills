@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spring Boot Backend Engineer"
+  short_description: "Build production-grade Spring Boot backends"
+  default_prompt: "Use $spring-boot-backend-engineer to design and implement this backend feature in Java and Spring Boot."

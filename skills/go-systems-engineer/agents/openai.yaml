@@ -1,0 +1,4 @@
+interface:
+  display_name: "Go Systems Engineer"
+  short_description: "Build production-grade Go systems and tools"
+  default_prompt: "Use $go-systems-engineer to design and implement this Go service, tool, or reusable skill."
